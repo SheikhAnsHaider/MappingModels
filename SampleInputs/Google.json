@@ -1,0 +1,25 @@
+{
+    "_id" : 123,
+    "Travelers" : [{
+        "Firstname" : "Max",
+        "LastName" : "Mustermann",
+        "Address" : {
+            "Street" : "TestStraße 123",
+            "Zip" : "33333"
+        }
+    }],
+    "Rooms" : [{
+        "_id" : 12331,
+        "Name" : "Single Room Mountain View",
+        "Type" : "Single Room",
+        "Rates" : [{
+            "_id" :  3213123,
+            "Name" : "Best Rate",
+            "Type" : "Rate"
+        }]
+    }],
+    "Total" : {
+        "Sum" : 300,
+        "Currency" : "EUR"
+    }
+}

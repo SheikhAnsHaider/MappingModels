@@ -1,0 +1,101 @@
+[
+  {
+    "_id": 123,
+    "Guests": [
+      {
+        "Firstname": "Max",
+        "LastName": "Mustermann",
+        "Addresses": [
+          {
+            "Type": "Main",
+            "Street": "TestStraße 123"
+          }
+        ]
+      }
+    ],
+    "Products": [
+      {
+        "_id": 12331,
+        "_uuid": "883a0703-753c-4b10-a848-c7837d65eb59",
+        "Name": "Single Room Mountain View",
+        "Type": "Single Room",
+        "Tariff": {
+          "_id": 3213123,
+          "_uuid": "8e5f177a-ea0f-4a09-afd5-19968baee892",
+          "Name": "Best Rate",
+          "Type": "Rate"
+        }
+      }
+    ],
+    "Total": {
+      "Sum": 300,
+      "Currency": "EUR"
+    }
+  },
+  {
+    "_id": 123,
+    "Guests": [
+      {
+        "Firstname": "Max",
+        "LastName": "Mustermann",
+        "Addresses": [
+          {
+            "Type": "Main",
+            "Street": "TestStraße 123"
+          }
+        ]
+      }
+    ],
+    "Products": [
+      {
+        "_id": 12331,
+        "_uuid": "883a0703-753c-4b10-a848-c7837d65eb59",
+        "Name": "Single Room Mountain View",
+        "Type": "Single Room",
+        "Tariff": {
+          "_id": 3213123,
+          "_uuid": "8e5f177a-ea0f-4a09-afd5-19968baee892",
+          "Name": "Best Rate",
+          "Type": "Rate"
+        }
+      }
+    ],
+    "Total": {
+      "Sum": 300,
+      "Currency": "EUR"
+    }
+  },
+  {
+    "_id": 123,
+    "Guests": [
+      {
+        "Firstname": "Max",
+        "LastName": "Mustermann",
+        "Addresses": [
+          {
+            "Type": "Main",
+            "Street": "TestStraße 123"
+          }
+        ]
+      }
+    ],
+    "Products": [
+      {
+        "_id": 12331,
+        "_uuid": "883a0703-753c-4b10-a848-c7837d65eb59",
+        "Name": "Single Room Mountain View",
+        "Type": "Single Room",
+        "Tariff": {
+          "_id": 3213123,
+          "_uuid": "8e5f177a-ea0f-4a09-afd5-19968baee892",
+          "Name": "Best Rate",
+          "Type": "Rate"
+        }
+      }
+    ],
+    "Total": {
+      "Sum": 300,
+      "Currency": "EUR"
+    }
+  }
+]
